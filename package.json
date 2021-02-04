@@ -1,0 +1,22 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephen-Roach/Coding-Interview-Bootcamp.git"
+  },
+  "author": "Stephen Roach'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephen-Roach/Coding-Interview-Bootcamp/issues"
+  },
+  "homepage": "https://github.com/Stephen-Roach/Coding-Interview-Bootcamp#readme"
+}
